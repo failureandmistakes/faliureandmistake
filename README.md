@@ -7,3 +7,5 @@
 <p align="center">
 <img width="340" height="360" alt="image" src="https://github.com/user-attachments/assets/34069457-fa62-45d0-9877-a1e1f311ec77" />
 
+<p align="center">
+$\texttt{\color{#4a1581} So do I look like him?}$
